@@ -1,6 +1,9 @@
 
 {
-"versionCode": "1.1.17",
- "url": "https://g",
- "Message": "KJAY VPN AP"
+"versionCode": "1.2",
+ "link": "https://g",
+ "Message": "message",
+ "force": "force",
+ "title": "title"
+
 }
