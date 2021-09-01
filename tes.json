@@ -2,6 +2,6 @@
       "title":"testing", 
       "massage": "testing",
       "link": "https",
-      "force": false,
-      "versionCode":  1.3
+      "force": "true",
+      "versionCode":  "1.3"
  }
