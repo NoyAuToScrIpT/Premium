@@ -1,9 +1,7 @@
-
 {
-"versionCode": "1.2",
- "link": "https://g",
- "Message": "message",
- "force": "force",
- "title": "title", 
-
-}
+      "title":"", 
+      "massage": "",
+      "link": "",
+      "force": false,
+      "versionCode":  1.0
+ }
