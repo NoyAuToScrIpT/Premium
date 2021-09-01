@@ -1,7 +1,7 @@
 {
-      "title":"", 
-      "massage": "",
-      "link": "",
-      "force": false,
-      "versionCode":  1.1
+      "title":"testing", 
+      "massage": "testing",
+      "link": "https",
+      "force": "false",
+      "versionCode":  1.1"
  }
